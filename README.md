@@ -1,2 +1,2 @@
 # AI-Kung-Fu
-Machine Learning for Cybersecurity 
+Learning Machine Learning for Cybersecurity 
